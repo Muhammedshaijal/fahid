@@ -4,3 +4,5 @@ git add -A
 -adding all files to staging file
 git commit -m "commit"
 -adding staged files to local repository
+git push
+-adding to the local work space to repository
